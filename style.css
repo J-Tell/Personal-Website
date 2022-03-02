@@ -1,0 +1,50 @@
+html {
+    background-color: #00539f;
+    font-family: "Dancing Script", sans-serif
+}
+body {
+    background-color: #FF9500;
+    width: 600px;
+    margin: 0 auto;
+    border: 5px solid black;
+    padding: 0;
+}
+p, li {
+    font-size: 24px;
+    line-height: 1.5;
+    letter-spacing: 1px;
+}
+h1 {
+    font-size: 60px;
+    text-align: center;
+    border: 2px dotted red;
+    margin: 10px 0;
+}
+.bold {
+    font-weight: bold;
+}
+li.bold {
+    font-style: italic;
+}
+p.bold {
+    text-decoration: underline;
+}
+#subjectintro {
+    color: red;
+}
+img {
+    width: 70%;
+    height: auto;
+    margin: 0 auto;
+}
+
+div.coolbox {
+    margin: 20px;
+    padding: 50px;
+    border: red;
+}
+
+span.language {
+    font-family: "Courier New", monospace;
+    font-style: normal;
+}
